@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/OnePage/static/css/main.6da6f073.chunk.css",
+    "main.js": "/OnePage/static/js/main.68a390eb.chunk.js",
+    "main.js.map": "/OnePage/static/js/main.68a390eb.chunk.js.map",
+    "runtime-main.js": "/OnePage/static/js/runtime-main.a4946e20.js",
+    "runtime-main.js.map": "/OnePage/static/js/runtime-main.a4946e20.js.map",
+    "static/css/2.8a422792.chunk.css": "/OnePage/static/css/2.8a422792.chunk.css",
+    "static/js/2.e855bbed.chunk.js": "/OnePage/static/js/2.e855bbed.chunk.js",
+    "static/js/2.e855bbed.chunk.js.map": "/OnePage/static/js/2.e855bbed.chunk.js.map",
+    "static/js/3.2a015212.chunk.js": "/OnePage/static/js/3.2a015212.chunk.js",
+    "static/js/3.2a015212.chunk.js.map": "/OnePage/static/js/3.2a015212.chunk.js.map",
+    "index.html": "/OnePage/index.html",
+    "static/css/2.8a422792.chunk.css.map": "/OnePage/static/css/2.8a422792.chunk.css.map",
+    "static/css/main.6da6f073.chunk.css.map": "/OnePage/static/css/main.6da6f073.chunk.css.map",
+    "static/js/2.e855bbed.chunk.js.LICENSE.txt": "/OnePage/static/js/2.e855bbed.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/OnePage/static/media/hero-bg.54e8f6f3.jpg",
+    "static/media/portfolio-1.f8a4f20b.jpg": "/OnePage/static/media/portfolio-1.f8a4f20b.jpg",
+    "static/media/portfolio-2.c082025d.jpg": "/OnePage/static/media/portfolio-2.c082025d.jpg",
+    "static/media/portfolio-3.fc9e27e7.jpg": "/OnePage/static/media/portfolio-3.fc9e27e7.jpg",
+    "static/media/portfolio-4.ab6a84cc.jpg": "/OnePage/static/media/portfolio-4.ab6a84cc.jpg",
+    "static/media/portfolio-5.940ac6c8.jpg": "/OnePage/static/media/portfolio-5.940ac6c8.jpg",
+    "static/media/portfolio-6.84b78cea.jpg": "/OnePage/static/media/portfolio-6.84b78cea.jpg",
+    "static/media/portfolio-7.a73da5d7.jpg": "/OnePage/static/media/portfolio-7.a73da5d7.jpg",
+    "static/media/portfolio-8.3c46c6c1.jpg": "/OnePage/static/media/portfolio-8.3c46c6c1.jpg",
+    "static/media/portfolio-9.fbfa9707.jpg": "/OnePage/static/media/portfolio-9.fbfa9707.jpg",
+    "static/media/testimonials-1.54f2a70e.jpg": "/OnePage/static/media/testimonials-1.54f2a70e.jpg",
+    "static/media/testimonials-4.58081dc8.jpg": "/OnePage/static/media/testimonials-4.58081dc8.jpg",
+    "static/media/testimonials-5.8732aa37.jpg": "/OnePage/static/media/testimonials-5.8732aa37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4946e20.js",
+    "static/css/2.8a422792.chunk.css",
+    "static/js/2.e855bbed.chunk.js",
+    "static/css/main.6da6f073.chunk.css",
+    "static/js/main.68a390eb.chunk.js"
+  ]
+}
